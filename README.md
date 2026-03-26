@@ -8,7 +8,7 @@ asdf plugin for lazyssh
 
 
 ```bash
-asdf plugin add lazyssh https://github.com/a1xs/asdf-lazyssh
+asdf plugin add lazyssh https://github.com/a1xs/asdf_lazyssh
 ```
 
 ## Install app
